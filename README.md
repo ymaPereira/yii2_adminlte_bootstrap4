@@ -1,3 +1,8 @@
+<p>Please executing this command: yii migrate</p>
+Trying: http://localhost/yii2_adminlte_bootstrap4/backend/web/index.php
+User: admin
+PW: 123456
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
