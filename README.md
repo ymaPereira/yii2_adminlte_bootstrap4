@@ -1,7 +1,4 @@
-<p>Please executing this command: yii migrate</p>
-Trying: http://localhost/yii2_adminlte_bootstrap4/backend/web/index.php
-User: admin
-PW: 123456
+
 
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
@@ -10,6 +7,12 @@ PW: 123456
     <h1 align="center">Yii 2 Advanced Project Template</h1>
     <br>
 </p>
+
+<p>Please executing this command: yii migrate</p>
+Trying: http://localhost/yii2_adminlte_bootstrap4/backend/web/index.php
+User: admin
+PW: 123456
+
 
 Yii 2 Advanced Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 developing complex Web applications with multiple tiers.
