@@ -8,10 +8,10 @@
     <br>
 </p>
 
-<p>Please executing this command: yii migrate</p>
+<p>Please executing this command: <strong>yii migrate</strong></p>
 Trying: http://localhost/yii2_adminlte_bootstrap4/backend/web/index.php
-User: admin
-PW: 123456
+<strong>User:</strong> admin
+<strong>PW:</strong> 123456
 
 
 Yii 2 Advanced Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
