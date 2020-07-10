@@ -4,8 +4,8 @@ return [
         'db' => [
             'class' => 'yii\db\Connection',
             'dsn' => 'pgsql:host=localhost;dbname=yii_advanced;port=5432',
-            'username' => '',
-            'password' => '',
+            'username' => 'postgres',
+            'password' => 'postgres',
             'charset' => 'utf8',
         ],
         'mailer' => [
